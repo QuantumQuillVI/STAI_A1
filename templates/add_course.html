@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Add a New Course</h2>
+<form method="post" action="{{ url_for('add_course') }}">
+    <div class="mb-3">
+        <label for="name" class="form-label">Course Name</label>
+        <input type="text" class="form-control" id="name" name="name" >
+    </div>
+    <div class="mb-3">
+        <label for="code" class="form-label">Course Code</label>
+        <input type="text" class="form-control" id="code" name="code" >
+    </div>
+    <div class="mb-3">
+        <label for="instructor" class="form-label">Instructor</label>
+        <input type="text" class="form-control" id="instructor" name="instructor" >
+    </div>
+    <div class="mb-3">
+        <label for="semester" class="form-label">Semester</label>
+        <input type="text" class="form-control" id="semester" name="semester" >
+    </div>
+    <div class="mb-3">
+        <label for="schedule" class="form-label">Schedule</label>
+        <input type="text" class="form-control" id="schedule" name="schedule" >
+    </div>
+    <div class="mb-3">
+        <label for="classroom" class="form-label">Classroom</label>
+        <input type="text" class="form-control" id="classroom" name="classroom" >
+    </div>
+    <div class="mb-3">
+        <label for="prerequisites" class="form-label">Prerequisites</label>
+        <input type="text" class="form-control" id="prerequisites" name="prerequisites" >
+    </div>
+    <div class="mb-3">
+        <label for="grading" class="form-label">Grading</label>
+        <input type="text" class="form-control" id="grading" name="grading" >
+    </div>
+    <div class="mb-3">
+        <label for="description" class="form-label">Description</label>
+        <input type="text" class="form-control" id="description" name="description" >
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Add Course</button>
+</form>
+{% endblock %}

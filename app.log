@@ -1,0 +1,86 @@
+2025-01-13 16:21:18,359 - INFO - Course catalog accessed.
+2025-01-13 16:21:23,097 - INFO - Course catalog accessed.
+2025-01-13 19:13:46,221 - INFO - Course catalog accessed.
+2025-01-13 19:13:49,402 - INFO - Course catalog accessed.
+2025-01-13 19:14:41,504 - INFO - Course catalog accessed.
+2025-01-13 19:15:17,809 - INFO - Course catalog accessed.
+2025-01-13 19:15:51,024 - INFO - Course catalog accessed.
+2025-01-13 19:17:33,149 - INFO - Course webpage accessed.
+2025-01-14 13:10:09,448 - INFO - Course webpage accessed.
+2025-01-14 13:10:11,435 - INFO - Course catalog accessed.
+2025-01-14 13:10:35,726 - INFO - New Course added successfully
+2025-01-14 13:10:35,743 - INFO - Course catalog accessed.
+2025-01-14 13:12:21,015 - INFO - Course catalog accessed.
+2025-01-14 13:12:25,892 - INFO - Course catalog accessed.
+2025-01-14 13:12:30,572 - INFO - Course catalog accessed.
+2025-01-14 13:12:31,637 - INFO - Course catalog accessed.
+2025-01-14 13:12:31,780 - INFO - Course catalog accessed.
+2025-01-14 13:12:32,117 - INFO - Course catalog accessed.
+2025-01-14 13:12:39,273 - INFO - Course webpage accessed.
+2025-01-14 13:12:43,193 - INFO - Course catalog accessed.
+2025-01-14 13:21:40,905 - INFO - Course webpage accessed.
+2025-01-14 14:45:05,275 - INFO - Course webpage accessed.
+2025-01-14 20:21:19,504 - INFO - Course webpage accessed.
+2025-01-14 20:31:47,431 - INFO - Course webpage accessed.
+2025-01-14 20:31:49,214 - INFO - Course webpage accessed.
+2025-01-14 20:31:50,303 - INFO - Course webpage accessed.
+{"timestamp": "2025-01-14 21:01:05,101", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:01:06,657", "level": "INFO", "message": "Course catalog page loaded with 5 courses."}
+{"timestamp": "2025-01-14 21:01:08,093", "level": "INFO", "message": "Course details page accessed for course XX101 - abc"}
+{"timestamp": "2025-01-14 21:01:10,296", "level": "INFO", "message": "Course details page accessed for course AI 104 - Data Science"}
+{"timestamp": "2025-01-14 21:01:11,471", "level": "INFO", "message": "Course details page accessed for course AI 103 - Machine Learning"}
+{"timestamp": "2025-01-14 21:01:12,841", "level": "INFO", "message": "Course details page accessed for course CS 203 - Software and Tools for AI"}
+{"timestamp": "2025-01-14 21:01:14,773", "level": "INFO", "message": "Course details page accessed for course CS 203 - Software and Tools for AI"}
+{"timestamp": "2025-01-14 21:01:16,527", "level": "INFO", "message": "Course details page accessed for course CS101 - Introduction to Computer Science"}
+{"timestamp": "2025-01-14 21:01:19,075", "level": "INFO", "message": "Course details page accessed for course AI 104 - Data Science"}
+{"timestamp": "2025-01-14 21:01:20,141", "level": "INFO", "message": "Course details page accessed for course XX101 - abc"}
+{"timestamp": "2025-01-14 21:02:34,701", "level": "INFO", "message": "Course catalog page loaded with 5 courses."}
+{"timestamp": "2025-01-14 21:02:36,105", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:02:37,088", "level": "INFO", "message": "Course catalog page loaded with 5 courses."}
+{"timestamp": "2025-01-14 21:03:26,804", "level": "INFO", "message": "Course added successfully: CS103 - DCC"}
+{"timestamp": "2025-01-14 21:03:26,821", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:09:34,041", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:09:34,553", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:09:35,046", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:09:37,164", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:09:37,321", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:10:14,862", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:10:15,631", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:10:16,315", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:10:16,803", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:10:17,223", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:10:17,580", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:10:18,220", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:10:18,600", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:10:19,151", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:10:19,476", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:10:20,847", "level": "INFO", "message": "Course details page accessed for course CS103 - DCC"}
+{"timestamp": "2025-01-14 21:10:22,279", "level": "INFO", "message": "Course details page accessed for course AI 104 - Data Science"}
+{"timestamp": "2025-01-14 21:10:23,253", "level": "INFO", "message": "Course details page accessed for course AI 103 - Machine Learning"}
+{"timestamp": "2025-01-14 21:10:24,304", "level": "INFO", "message": "Course details page accessed for course CS 203 - Software and Tools for AI"}
+{"timestamp": "2025-01-14 21:10:25,445", "level": "INFO", "message": "Course details page accessed for course CS101 - Introduction to Computer Science"}
+{"timestamp": "2025-01-14 21:11:40,996", "level": "INFO", "message": "Course details page accessed for course CS 203 - Software and Tools for AI"}
+{"timestamp": "2025-01-14 21:11:51,500", "level": "INFO", "message": "Course details page accessed for course AI 104 - Data Science"}
+{"timestamp": "2025-01-14 21:21:24,024", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:21:24,599", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:23:02,010", "level": "ERROR", "message": "Duplicate course code detected: CS103"}
+{"timestamp": "2025-01-14 21:26:55,725", "level": "ERROR", "message": "Validation failed: Missing required fields "}
+{"timestamp": "2025-01-14 21:27:10,277", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:32:07,420", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:32:08,545", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:32:51,880", "level": "INFO", "message": "Course catalog page loaded with 6 courses."}
+{"timestamp": "2025-01-14 21:36:39,952", "level": "INFO", "message": "Course added successfully: ES 231 - Fluid Dynamics"}
+{"timestamp": "2025-01-14 21:36:39,965", "level": "INFO", "message": "Course catalog page loaded with 7 courses."}
+{"timestamp": "2025-01-14 21:41:03,400", "level": "ERROR", "message": "Validation failed: Missing required fields "}
+{"timestamp": "2025-01-14 21:41:52,411", "level": "ERROR", "message": "Validation failed: Missing required fields "}
+{"timestamp": "2025-01-14 21:41:54,700", "level": "ERROR", "message": "Validation failed: Missing required fields "}
+{"timestamp": "2025-01-14 21:41:56,109", "level": "ERROR", "message": "Validation failed: Missing required fields "}
+{"timestamp": "2025-01-14 21:42:41,147", "level": "ERROR", "message": "Validation failed: Missing required fields "}
+{"timestamp": "2025-01-14 21:45:00,071", "level": "ERROR", "message": "Validation failed: Missing required fields name, code, instructor, semester "}
+{"timestamp": "2025-01-14 21:45:16,373", "level": "INFO", "message": "Course catalog page loaded with 7 courses."}
+{"timestamp": "2025-01-14 21:45:17,143", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:45:17,768", "level": "INFO", "message": "Course catalog page loaded with 7 courses."}
+{"timestamp": "2025-01-14 21:45:18,794", "level": "INFO", "message": "Course webpage accessed."}
+{"timestamp": "2025-01-14 21:45:20,519", "level": "INFO", "message": "Course catalog page loaded with 7 courses."}
+{"timestamp": "2025-01-14 21:45:28,297", "level": "ERROR", "message": "Validation failed: Missing required fields code, instructor, semester "}
+{"timestamp": "2025-01-14 21:45:38,590", "level": "ERROR", "message": "Validation failed: Missing required fields name, code, instructor, semester "}
